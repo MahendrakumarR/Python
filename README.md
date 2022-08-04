@@ -1,2 +1,0 @@
-# Mahendrakumar
-Python Coding
